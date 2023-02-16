@@ -1,0 +1,1 @@
+# archlinux-riced-hyrpland
